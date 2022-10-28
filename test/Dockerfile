@@ -6,3 +6,5 @@ ENV pswd=notpassword3
 ENV pass=notpassword4
 
 USER root
+
+EXPOSE 22
